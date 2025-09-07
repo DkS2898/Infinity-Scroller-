@@ -6,7 +6,7 @@ Scroll down to load random high-quality images seamlessly, with a clean and resp
 ---
 
 ## 🚀 Demo
-👉 [Live Demo on Netlify](will add soon)  
+👉 [Live Demo on Netlify](https://devseninfinityscroller.netlify.app/)  
 👉 [GitHub Repository](https://github.com/your-username/infinity-scroller)
 
 ---
