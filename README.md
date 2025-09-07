@@ -49,7 +49,7 @@ const apiKey = 'YOUR_UNSPLASH_API_KEY';
 📂 Project Structure
 bash
 Copy code
-Infinity-Scroller/
+Infinity-Scroller<br>
 │── index.html       # Main HTML file<br>
 │── style.css        # Stylesheet<br>
 │── script.js        # JavaScript functionality<br>
